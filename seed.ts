@@ -10,7 +10,7 @@
  *   clearSeed()        — removes all keys, live API resumes
  */
 
-// Org slug — picks up the env var baked in at build time
+// Org slug — picks up the env var baked in at build timedf
 const ORG = "acmecorp";
 
 // Reference date helpers
